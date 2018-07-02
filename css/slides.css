@@ -1679,7 +1679,7 @@ html:not(.mobile) .slide.video .background[style] {
      padding:10% 0 !important;
      border-radius:0;
      -webkit-transition:0s !important;
-     transition:0s !important;
+     transition:10s !important;
   }
   .grid:not(.later) > [class*='col-'] .pad:hover,
   .grid:not(.later) > [class*='col-'] .pad.stroke {
