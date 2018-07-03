@@ -2111,7 +2111,7 @@ html:not(.page-loaded) .slides.scroll .slide {
 
 .loadingIcon {
 	position:fixed;
-  z-index:10000;
+  z-index:9000;
 	text-align:center;
   top:10px;
   right:10px;
